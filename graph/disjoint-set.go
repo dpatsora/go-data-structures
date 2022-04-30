@@ -1,4 +1,4 @@
-package disjoint_set
+package graph
 
 type DisjointSet struct {
 	data  []int
